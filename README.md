@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jigar Buha</h1>
-<h3 align="center">I am iOS App developer.</h3>
+<h3 align="center">I'm iOS App developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigarbuha&label=Profile%20views&color=0e75b6&style=flat" alt="jigarbuha" /> </p>
 
